@@ -4,3 +4,4 @@ scipy==1.5.4   # Required for `scipy.special`
 openvino>=2023.1.0  # Replace <version> with the specific version of OpenVINO you need.
 numpy==1.19.4   # Required for numerical operations
 requests==2.25.1  # Required for making HTTP requests
+transformers[torch]>=4.30
